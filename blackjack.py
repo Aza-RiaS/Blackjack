@@ -291,5 +291,5 @@ if __name__ == "__main__":
             elif player_one.wallet - 1000 > 0:
                 print(f"\nThat is £{player_one.wallet - 1000} more than what you started with.\nYou win.")
 
-# TODO: End game when player's wallet is 0
+
 # TODO: Need way to end game other than going broke i.e. cash out option
